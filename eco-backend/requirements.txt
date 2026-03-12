@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic-settings
+python-multipart
+httpx
+scikit-learn
+pandas
+python-dotenv
+google-genai
+opencv-python
+Pillow
+opencv-python
